@@ -1,3 +1,3 @@
 all:
-	cat szoveg.html > index.html
+	cat header.html szoveg.html footer.html > index.html
 
