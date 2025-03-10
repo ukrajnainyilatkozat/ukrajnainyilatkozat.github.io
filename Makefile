@@ -1,3 +1,6 @@
+SHELL:=/bin/bash
+
 all:
-	cat header.html szoveg.html footer.html > index.html
+	( echo "<p>" ; cat nevek.txt | sed "s/$$/<br\/>/" ; echo "</p>" ) > nevek.html
+	cat header.html szoveg.html nevek_elott.html nevek.html footer.html > index.html
 
