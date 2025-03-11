@@ -1,7 +1,16 @@
 SHELL:=/bin/bash
 
 all:
-	( echo "<p>" ; cat nevek.txt | sed "s/$$/<br\/>/" ; echo "</p>" ) > nevek.html
-	( echo "aláírók száma: " ; cat nevek.txt | wc -l ; echo "&bullet; frissítve: " ; date +%Y-%m-%d ) > alairok_szama
-	cat header.html szoveg.html nevek_elott.html nevek.html footer_elott.html alairok_szama footer.html > index.html
+	( \
+	cat header.html ; \
+	cat szoveg.html ; \
+	cat nevek_elott.html ; \
+	echo "<p>" ; cat nevek.txt | sed "s/$$/<br\/>/" ; echo "</p>" ; \
+	echo "<h3 id=\"visszhang\">Visszhang</h3>" ; \
+	echo "<p class=\"s\">" ; cat sajto.txt | sed "s/\(.*\)/<a href=\"\1\">\1<\/a><br\/>/"; echo "</p>" ; \
+	cat footer_elott.html ; \
+	echo "aláírók száma: " ; cat nevek.txt | wc -l ; \
+	echo "&bullet; frissítve: " ; date +%Y-%m-%d ; \
+	cat footer.html \
+	) > index.html
 
