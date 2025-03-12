@@ -1,26 +1,33 @@
 Ács Pál, irodalomtörténész, az MTA doktora
+Agárdi Péter, irodalomtörténész, professor emeritus
 Angyal Béla, néprajzkutató, történész, PhD
 Angyalosi Gergely, kandidátus, professor emeritus
 Ángyán József, agrármérnök, az MTA doktora, professor emeritus
+Augusztinovicz Fülöp, villamosmérnök, az MTA doktora, professor emeritus
 Bagi Katalin, műszaki tudományok, az MTA Doktora
 Baintner Károly, egyetemi tanár
 Bajtay Zsuzsa, immunológus, az MTA doktora
 Bakró-Nagy Marianne, nyelvész, az MTA doktora, professor emeritus
+Balásházy Mária, jogász, PhD, nyugalmazott egyetemi docens
 Balázsi Gábor, biológus, biofizikus, PhD
 Bali János, zeneművész, egyetemi tanár, a SzIMA címzetes tagja
 Bálint Csanád, régész, az MTA rendes tagja, professor emeritus
+Bálint Éva, biológus, PhD, tudományos főmunkatárs
 Bálizs Beáta, néprajzkutató, muzeológus, PhD
+Balogh-Ebner Márton, történész, PhD
 Balogh Péter, társadalomföldrajz, PhD, tudományos munkatárs
 Bán Zsófia, irodalomtörténész, egyetemi docens
 Barabás Béla, matematikus, PhD
 Barabás Júlia, biometria, PhD, egyetemi docens
 Bárány Tibor, filozófus, PhD
 Barcsi Tamás, filozófus, tanszékvezető egyetemi docens
+Bárkányi Zsuzsanna, nyelvész, PhD, tudományos főmunkatárs
 Barta Dániel, fizikus, PhD, tudományos munkatárs
 Barta Péter, nyelvész, kandidátus
 Bauer Tamás, közgazdász, kandidátus
 Bayer József, filozófus-politológus, az MTA rendes tagja, professor emeritus
 Bazsa György, kémikus, az MTA doktora, professor emeritus
+Bednárik János, néprajzkutató, PhD, tudományos munkatárs
 Beke Dezső, fizikus, az MTA doktora, professzor emeritus
 Békés Csaba, történész, az MTA doktora, egyetemi tanár
 Bencsik Péter, történész, egyetemi docens
@@ -35,17 +42,23 @@ Bodó Csanád, nyelvész, PhD
 Bondár István, szeizmológus, az MTA doktora
 Boreczky Ágnes, professor emeritus
 Borgos Anna, pszichológus, PhD, tudományos főmunkatárs
+Borics Gábor, biológus, az MTA Doktora, tudományos tanácsadó
 Borka György, agrármérnök, PhD, nyugalmazott tudományos főmunkatárs
 Borsa Judit, vegyészmérnök, kandidátus, professor emeritus
-Bozóki András, politológus, az MTA doktora, egyetemi tanár
+Bottoni Stefano, történész, PhD, egyetemi docens
 Bozó Péter, zenetörténész, PhD, egyetemi docens
+Bozóki András, politológus, az MTA doktora, egyetemi tanár
+Burgyán József, molekuláris biológus, az MTA doktora
+Czigányik Zsolt, irodalomtörténész, habilitált egyetemi docens
 Csabai István, fizikus, egyetemi tanár
 Csaba László, közgazdász, az MTA rendes tagja
 Csanádi Mária, politológus-közgazdász, az MTA doktora
+Csatári Ferenc, filozófus, PhD
 Cs. Czachesz Erzsébet, az MTA doktora, professor emeritus
 Csepregi András, teológus, PhD, habilitált egyetemi docens
 Csercsik Dávid, PhD, habilitált egyetemi docens, tudományos főmunkatárs
 Cserti József, fizikus, az MTA doktora, egyetemi tanár
+Csik Gabriella, biofizikus, az MTA doktora, címzetes egyetemi tanár
 Csirik János, matematikus, az MTA doktora, professor emeritus
 Csörsz Rumen István, irodalomtörténész, PhD
 Danyi Gábor, irodalomtörténész, PhD
@@ -54,11 +67,14 @@ Dávidházi Péter, irodalomtörténész, az MTA rendes tagja
 Deák Ágnes, történész, az MTA doktora
 Deák Dániel, jogász, az MTA doktora
 Deczki Sarolta, irodalomtörténész, filozófus, PhD
+Demes Sándor, fizikus, PhD, tudományos munkatárs
 Demeter Júlia, irodalomtörténész, kandidátus
 Dénes Iván Zoltán, eszmetörténész, az MTA doktora, az Academia Europaea tagja
+Dénes Iván Zoltán, történész, az MTA doktora, az Academia Europaea tagja
 Dezséri Kálmán, közgazdász, kandidátus
 Donkó Zoltán, fizikus, az MTA Doktora
 Dömötör Adrienne, nyelvész, PhD, tudományos főmunkatárs
+Dömötörfi Tibor, történész, szociológus, PhD
 Elekes Márton, matematikus, az MTA doktora
 Éltető Andrea, tudományos főmunkatárs
 Enyedi Zsolt, politológus, egyetemi tanár
@@ -67,7 +83,6 @@ Eörsi László, történész, tudományos munkatárs
 Erdei Anna, immunológus, professor emeritus
 Erdélyi Ágnes, filozófus, az MTA doktora, professor emeritus
 Erdélyi Róbert, csillagász, kandidátus, egyetemi tanár
-Eric Beckett Weaver, történész, egyetemi docens
 Erőss Ágnes, földrajztudomány, PhD
 Éva Csaba, biológus, PhD, tudományos főmunkatárs
 Fábián István, vegyész, az MTA doktora
@@ -80,6 +95,7 @@ Fekete Marianna, szociológus, PhD, egyetemi docens
 Fekete Mária, régész, PhD
 Fenyvesi Anna, nyelvész, egyetemi docens
 Ferkai András, építészettörténész, az MTA levelező tagja, professor emeritus
+fizikus, egyetemi tanár
 Fodor Judit, agrártudományok, PhD, nyugalmazott tudományos főmunkatárs
 Fokasz Nikosz, szociológus, az MTA doktora, professor emeritus
 Forgács József, pszichológus, az MTA külső tagja
@@ -90,20 +106,27 @@ Földi András, jogász, az MTA levelező tagja, professor emeritus
 Freud Róbert, matematikus, kandidátus, nyugalmazott egyetemi docens
 Frey Sándor, csillagász, PhD
 Friedrich Judit, angol-amerikai irodalom, kandidátus
+Füredi Zoltán, matematikus, az MTA rendes tagja
 Gaál Bernadett, biológus, PhD
 Gábor György, vallásfilozófus, vallástörténész, tanszékvezető egyetemi tanár
 Gábor R. István, közgazdász, az MTA doktora, professor emeritus
 Galácz András, az MTA doktora, professor emeritus
 Galamb György, történész, egyetemi docens
+Gál Erika, biológus, kandidátus
 Garai József, építőmérnök, egyetemi tanár
 Gécseg Zsuzsanna, nyelvész, PhD, egyetemi docens
 Geréby György, filozófus, kandidátus
 Gervai Judit, fejlődéspszichológus, címzetes egyetemi tanár
 Gervain Judit, kognitív idegtudomány, egyetemi tanár
 Goldmann Júlia, matematikus, PhD
+Gömöri Márton, filozófus, PhD
 Gurin Péter, fizikus, egyetemi docens
+Gyarmati János, régész-történész, muzeológus, kandidátus
 Győrffy Dóra, közgazdász, az MTA doktora
+Györfy Zsuzsanna, biológus, tudományos főmunkatárs
 Gyürky György, fizikus, az MTA doktora
+Haader Lea, nyelvész, kandidátus
+Hadarics Márton, szociálpszichológus, habilitált egyetemi docens
 Hajnal Márton A., agykutató, PhD
 Hamburger Klára, zenetörténész, az MTA doktora
 Hangya Balázs György, agykutató, tudományos főmunkatárs
@@ -113,33 +136,43 @@ Havas Attila, közgazdász, PhD, tudományos főmunkatárs
 Héberger Károly, vegyészmérnök, az MTA doktora, professor emeritus
 Hegedűs István, szociológus, PhD
 Heidl György, az MTA doktora, egyetemi tanár
+Hermann István, levéltáros-történész, PhD
 Hesz Ágnes, néprajzos, kulturális antropológus, egyetemi docens
 Hetényi György, geofizikus, PhD
 Hetényi Zsuzsa, irodalomtörténész, az MTA doktora, egyetemi tanár
 Hévizi Ottó, filozófiatörténész, az MTA doktora, nyugalmazott egyetemi tanár
 Hoffmann István, nyelvész, az MTA levelező tagja, kutatóprofesszor
 Horvai György, vegyészmérnök, az MTA rendes tagja
+Horváth Gergely, biológus, PhD, egyetemi adjunktus
+Hoványi Márton, irodalmár, teológus, PhD, S.T.L., habilitált egyetemi docens
+Hudecz Ferenc, kémikus, az MTA rendes tagja, professor emeritus
 Hunyadi László, nyelvész, az MTA doktora, professor emeritus
 Hunyadi Zsolt, történész, PhD, habilitált egyetemi docens
 Illés Imre Áron, történész, egyetemi adjunktus
 Imre Györgyi, művészettörténész, PhD
+Inotai András, nemzetközi gazdaság, az MTA doktora
 Inzelt Annamária, közgazdász, az MTA doktora
 Ittzés András, matematikus, PhD, egyetemi docens
 Ittzés Nóra, nyelvész, PhD
 Jánosházi Ágnes, biofizikus, neurofarmakológus, PhD
 Jánossy András, fizikus, az MTA rendes tagja
+Járai Zoltán, orvos, PhD, címzetes egyetemi tanár
 Jeszenszky Géza, történész, kandidátus, egyetemi magántanár
+Jóvári Pál, fizikus, az MTA doktora
 Józsa Lajos, PhD, nyugalmazott egyetemi tanár
 Juhász István, matematikus, az MTA rendes tagja
 Juhász Péter, matematikatanár, PhD
+Jurcsik Johanna, csillagás, az MTA doktora
 Kálmán Zsófia, gyermekorvos, kandidátus, habilitált címzetes egyetemi tanár
 Kalmár Melinda, történész, az MTA doktora
 Kamarás Katalin, fizikokémikus, az MTA rendes tagja
+Kardos András, filozófus, PhD
 Kardos Julianna, neurokémikus, az MTA doktora, professor emeritus
 Karsai György, klasszika-filológus, egyetemi tanár
 Karsai László, történész, az MTA doktora, professor emeritus
 Katona Gyula (O.H.), matematikus, az MTA rendes tagja
 Katona Tamás, statisztikus, professor emeritus
+Kecskeméty Károly, fizikus, az MTA doktora
 Keleti Tamás, matematikus, az MTA doktora, egyetemi tanár
 Kelevéz Ágnes, irodalomtörténész, muzeológus, PhD
 Kemenesi Gábor, virológus, egyetemi docens
@@ -153,11 +186,13 @@ Kertész Pálma, fogorvos, PhD
 Király Edit, irodalomtörténész, egyetemi docens
 Kiss Attila, anglista, az MTA doktora
 Kiss László Ferenc, fizikus, tudományos főmunkatárs
+Kiss Sándor, nyelvész, kandidátus, nyugalmazott egyetemi docens
 Klaniczay Gábor, történész, az MTA doktora
 Knausz Imre, neveléstudós, kandidátus, nyugalmazott egyetemi docens
 Kocsis Mihály, nyelvész, az MTA doktora, professor emeritus
 Kollár László Péter, mérnök, egyetemi tanár
 Koltay Jenő, közgazdász, az MTA emeritus kutatója
+Komjáth Péter, matematikus, az MTA rendes tagja
 Komlósy András, nyelvész, nyugalmazott tudományos főmunkatárs, egyetemi docens
 Konrád Miklós, PhD, tudományos főmunkatárs
 Kornai András, matematikus, nyelvész, az MTA doktora
@@ -173,19 +208,27 @@ Kőrösi Gábor, közgazdász, az MTA doktora, egyetemi tanár
 Kővári Zsolt, csillagász, az MTA doktora, tudományos tanácsadó
 Kövér György, történész, az MTA rendes tagja
 Krekó Pèter, szociàlpszichológus, habilitàlt egyetemi docens
+Krémer Ferenc, rendészet szociológus, történész, PhD, főiskolai docens
+Kroó Katalin, irodalomtörténész, az MTA doktora
+Kubinyi Enikő, biológus, az MTA doktora, egyetemi tanár
 Kugler Nóra, PhD, egyetemi docens
+Kulcsár Valéria, régész, címzetes egyetemi tanár
 Kurucz István, biológus, az MTA doktora
+Kuti Csongor, jogász, az MTA doktora, egyetemi docens
 Küllős Imola, folklórkutató, az MTA doktora
 Kürtösi Katalin, irodalomtörténész, az MTA doktora, professor emeritus
 Laczó Ferenc, történész, egyetemi docens
 Laki Mihály, közgazdász, az MTA doktora
 Lamm Vanda, nemzetközi jogász, az MTA rendes tagja
 Lányi András, filozófus, kandidátus
+László Levente, tudománytörténész, PhD
+Lederer Károly, építőmérnök, kandidátus
 Lendvai L. Ferenc, filozófus, az MTA doktora, professor emeritus
 Lévai Géza, fizikus, az MTA doktora
 Losonczy Anna, kultúrantropológus, professor emeritus
 Lövei Gábor, ökológus, az MTA doktora, az Academia Europaea tagja, professor emeritus
 Lővei Pál, művészettörténész, az MTA levelező tagja
+Lukács Gábor, matematikus-számítástechnikus, PhD
 Lukács Péter, oktatáskutató, professor emeritus
 Major Péter, matematikus, az MTA rendes tagja
 Majtényi László, jogász, az MTA doktora
@@ -207,18 +250,24 @@ Miklósi Ádám, biológus, az MTA rendes tagja, egyetemi tanár
 Mitrovits Miklós, történész, polonista, tudományos főmunkatárs
 Molnár György, közgazdász, PhD
 Montagnese Catherine, biológus, PhD, tudományos munkatárs
+M. Tóth Tivadar, geológus, az MTA doktora, egyetemi tanár
 Nádasdy Ádám, nyelvész, professor emeritus
+Nagy Ádám, nevelés- és ifjúságkutató, tudománykommunikátor, PhD, professor emeritus
 Nagy C. Katalin, nyelvész, tudományos munkatárs
 Nagy Dénes Lajos, fizikus, az MTA doktora, kutatóprofessor emeritus, nyugalmazott egyetemi tanár
+Nagy Gábor, geográfus, kandidátus
 Nagy Péter Tibor, történész, neveléstudós, az MTA doktora, egyetemi tanár
 Nagy Zoltán, néprajzos, kulturális antropológus, az MTA doktora
 Négyessy László, az MTA doktora, tudományos tanácsadó
+Németh András, az MTA doktora, professor emeritus
 Németh T. Enikő, nyelvész, az MTA levelező tagja
 Németh Zoltán, vegyész, PhD, tudományos főmunkatárs
 N. Kis Tímea, irodalomtörténész-művészettörténész, PhD
 Nyíri Kristóf, filozófus, az MTA rendes tagja
+Nyúl Boglárka, szociálpszichológus, egyetemi adjunktus
 Orbán László, irodalomtörténész, PhD, tudományos munkatárs
 Orcsik Roland, irodalomtörténész, PhD
+Orosz Éva, közgazdász, az MTA doktora, professor emeritus
 Orosz Ferenc, biokémikus, az MTA doktora
 Örkény Antal, szociológus, az MTA doktora, professor emeritus
 Páczelt István, gépészmérnök, az MTA rendes tagja
@@ -228,7 +277,10 @@ Páles Zsolt, matematikus, az MTA rendes tagja, egyetemi tanár
 Pálfy József, geológus, az MTA rendes tagja, egyetemi tanár
 Pálfy Péter Pál, matematikus, az MTA rendes tagja
 Pálinkás József, fizikus, az MTA rendes tagja
+Pál Károly Ferenc, fizikus, kandidátus
 Pálné Kovács Ilona, regionalista, az MTA rendes tagja
+Pál Tibor, orvos, mikrobiológus, az MTA doktora, egyetemi tanár
+Pap András László, jogász, az MTA doktora, egyetemi tanár
 Patkós András, fizikus, az MTA rendes tagja
 Patkós Balázs, matematikus, az MTA doktora
 Pavlovits Tamás, filozófus, az MTA doktora, tanszékvezető egyetemi tanár
@@ -236,15 +288,20 @@ Pecsuk Ottó, teológus, habilitált egyetemi docens
 Pete Gábor, matematikus, tudományos főmunkatárs, egyetemi docens
 Péter László, az MTA doktora, kutatóprofesszor
 Pétervári Kinga, jogász, bayerj46@gmail.com
+Petneki Katalin, nyelvész, pedagógus, PhD, nyugalmazott habilitált egyetemi docens
 Pihurik Judit, történész, PhD, nyugdíjas habilitált egyetemi docens
 Pléh Csaba, pszichológus, nyelvész, az MTA rendes tagja, az Academia Europaea tagja
 Podani János, biológus, az MTA rendes tagja, egyetemi tanár
 Polyák Gábor, médiakutató, egyetemi tanár
+Pomázi István, geográfus, PhD, egyetemi magántanár
+Pósfai György, biológus, az MTA doktora
 Pritz Pál, történész, Laureatus Academiae
 Pritz Tamás, akusztikus, az MTA doktora
 P. Tóth Tamás, társadalomkutató, PhD
 Pusztai Bertalan, az MTA doktora, egyetemi tanár
+Putnoky Péter, genetikus, molekuláris biológus, az MTA doktora, egyetemi tanár
 Rácz András, matematikus, PhD
+Rácz Olivér Miklós, közgazdász, PhD, egyetemi adjunktus
 Radnóti Sándor, esztéta, az MTA levelező tagja
 Radványi András, villamosmérnök, az MTA doktora
 Rainer M. János, történész, az MTA levelező tagja
@@ -257,6 +314,8 @@ Recski Gábor, nyelvész, PhD
 Rényi Ágnes, szociológus, PhD, nyugalmazott egyetemi docens
 Rényi András, művészettörténész, professor emeritus
 Réti Tamás, közgazdász, kandidátus
+Révai János, fizikus, az MTA doktora, nyugalmazott tudományos tanácsadó
+Rieger László, agrárközgazdász, kandidátus, címzetes egyetemi tanár
 Ritoók Ágnes, régész, PhD
 Romsics Ignác, történész, az MTA rendes tagja, professor emeritus
 Róna-Tas András, orientalista, nyelvész, az MTA rendes tagja, professor emeritus
@@ -277,44 +336,59 @@ Simoncsics Péter, finnugor nyelvész, PhD
 Simonné Pesthy Monika, vallástörténész, az MTA doktora
 Simonovits András, matematikus, MTA doktora
 Simonovits Miklos, matematikus, az MTA rendes tagja
+Simon Róbert, orientalista, az MTA doktora
+Simonyi Erika, régész, PhD, főmuzeológus
 Simonyi Gábor, matematikus, az MTA doktora
+Skutta Franciska, nyelvész, PhD, nyugalmazott habilitált egyetemi docens
 Sódor Ádám, csillagász, PhD, tudományos főmunkatárs
 Solti László, az MTA rendes tagja
 Somlai Péter, szociológus, egyetemi tanár
 Somogyi Péter, neurobiológus, a Royal Society tagja, professor emeritus
+Sonnevend Ágnes, orvosi mikrobiológia, az MTA doktora, egyetemi tanár 
 Soukup Lajos, matematikus, az MTA doktora
 Stark Tamás, történész, az MTA doktora, tudományos tanácsadó
 Sütő András, fizikus, az MTA doktora
 Süvegh Károly, egyetemi docens
 Szabadics János, neurobiológus, PhD
+Szabados László, biológus, az MTA doktora
 Szabó Attila, biológus, PhD, tudományos munkatárs
 Szabó Balázs, geográfus, tudományos munkatárs
 Szabó Gyula, orvos, az MTA doktora
 Szajbély Mihály, irodalomtörténész, az MTA doktora, Laureatus Academiae, professor emeritus
+Szalai Tamás, csillagász, PhD
+Szanyi János, hidrogeológus, egyetemi adjunktus
 Szathmáry Eörs, biológus, az MTA rendes tagja
 Széchenyi Ágnes, irodalomtörténész, az MTA doktora
+Szécsényi Endre, eszmetörténész, PhD, egyetemi tanár
 Szegedi Eszter, irodalomtörténész, PhD
 Szegedi Nóra, filozófiatörténész, PhD
 Szeidl György, az MTA doktora
 Szekeres András, gépészmérnök, kandidátus, nyugalmazott tudományos főmunkatárs, címzetes docens
+Szekeres György, orvos, PhD, tudományos igazgató
 Szemerkényi Ágnes, folklorista, kandidátus
+Szentgyörgyi Szilárd, nyelvész, PhD, egyetemi docens
 Szepesi Laszlo, PhD, egyetemi docens
 Szépvölgyi János, vegyészmérnök, emeritus professor, az MTA doktora
 Szigetvári Andrea, zeneszerző, DLA, egyetemi docens, a SzIMA rendes tagja
 Szigetvári Péter, nyelvész, PhD, egyetemi docens
 Szijártó István, történész, az MTA doktora, egyetemi tanár
 Szijártó Miklós, matematikus, kandidátus, nyugalmazott főiskolai tanár
+Szijj Ildikó, nyelvész, PhD, habilitált egyetemi docens
 Szilasné Jósvai Júlia Katalin, biológus, tudományos munkatárs
 Sz. Kristóf Ildikó, történeti antropológus, kandidátus, tudományos főmunkatárs
 Szőnyi György Endre, az MTA doktora, professor emeritus
+Takács Ferenc, anglicista, PhD
+Tallár Ferenc, filozófus, az MTA doktora, professor emeritus
 Tamás Dóra Mária, nyelvész, PhD, tudományos főmunkatárs
 Tátrai Szilárd, az MTA doktora, egyetemi tanár
+Tegze Miklós, az MTA doktora, professor emeritus
 Telegdy Álmos, közgazdász, egyetemi docens
 Timár Ádám, matematikus, tudományos főmunkatárs
 Timár Gábor, geofizikus, az MTA doktora, egyetemi tanár
 Toldi József, biológus, az MTA doktora
 Tomka Béla, történész, az MTA doktora, egyetemi tanár
 Tóth Árpád, történész, PhD, egyetemi docens
+Tóth Géza, matematikus, az MTA doktora
 Tóth Hajnalka, történész, habilitált egyetemi adjunktus
 Tóth István János, közgazdász, PhD
 Tóth László, műszaki tudományok, az MTA doktora, nyugalmazott egyetemi tanár
@@ -330,8 +404,10 @@ Uszkiewicz Erik, jogász, PhD
 Valuch Tibor, történész, az MTA doktora, egyetemi tanár
 Vankó György, kémiai fizikus, PhD
 Váradi András, az MTA doktora
+Varga Csaba, orvos, kandidátus, habilitált egyetemi tanár
 Varga Júlia, közgazdász, az MTA doktora
 Vargyas Gábor, néprajzkutató, az MTA doktora, professor emeritus
+Várhegyi Gábor, vegyész, az MTA doktora
 Vásárhelyi Gábor, mérnök-fizikus, PhD
 Vásárhelyi Mária, szociológus, tudományos főmunkatárs
 Venetianer Pál, biológus, az MTA rendes tagja
@@ -347,8 +423,10 @@ Vitári Zsolt, történész, PhD, habilitált intézetvezető egyetemi docens
 Vonyó József, történész, az MTA doktora, nyugalmazott címzetes egyetemi tanár
 Völgyesi Orsolya, történész, PhD
 Vörös Imre, jogász, az MTA rendes tagja, egyetemi tanár
+Weaver Eric Beckett, történész, egyetemi docens
 Wessely Anna, szociológus, művészettörténész, PhD
 Wolf György, fizikus, az MTA doktora, kutatóprofesszor
 Zagyvai Péter, fizikus, tudományos főmunkatárs, egyetemi docens
 Zatykó Csilla, régész, PhD
+Zoller Vilmos, matematikus, nyugalmazott habilitált főiskolai tanár
 Zombori Zsolt, matematikus, tudományos munkatárs
