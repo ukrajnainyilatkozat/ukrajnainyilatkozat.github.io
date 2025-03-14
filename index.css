@@ -54,7 +54,8 @@ a.navigarrow {
 }
 
 .alert {
-  background: #ffff00;
+  padding: 2px;
+  background: #f0f0f0;
 }
 
 td.r {
