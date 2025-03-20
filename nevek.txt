@@ -63,6 +63,7 @@ Csercsik Dávid, PhD, habilitált egyetemi docens, tudományos főmunkatárs
 Cserti József, fizikus, az MTA doktora, egyetemi tanár
 Csik Gabriella, biofizikus, az MTA doktora, címzetes egyetemi tanár
 Csirik János, matematikus, az MTA doktora, professor emeritus
+Csorba Gábor, zoológus, PhD
 Csörsz Rumen István, irodalomtörténész, PhD
 Danyi Gábor, irodalomtörténész, PhD
 Darab Ágnes, klasszika-filológus, az MTA doktora, egyetemi tanár
@@ -131,6 +132,7 @@ Gervain Judit, kognitív idegtudomány, egyetemi tanár
 Goldmann Júlia, matematikus, PhD
 Gömöri Márton, filozófus, PhD
 Görföl Tamás, biológus, PhD
+Grabócz Márta, zenetörténész, PhD, az MTA külső tagja, egyetemi tanár
 Gurin Péter, fizikus, egyetemi docens
 Gyarmati János, régész-történész, muzeológus, kandidátus
 Győrffy Dóra, közgazdász, az MTA doktora
