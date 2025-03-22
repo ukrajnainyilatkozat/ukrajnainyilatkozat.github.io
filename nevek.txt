@@ -162,7 +162,6 @@ Horváth Gergely, biológus, PhD, egyetemi adjunktus
 Horváthy Balázs, jogász, PhD
 Hoványi Márton, irodalmár, teológus, PhD, S.T.L., habilitált egyetemi docens
 Hudecz Ferenc, kémikus, az MTA rendes tagja, professor emeritus
-Hunyadi László, nyelvész, az MTA doktora, professor emeritus
 Hunyadi Zsolt, történész, PhD, habilitált egyetemi docens
 Illés Imre Áron, történész, egyetemi adjunktus
 Imre Györgyi, művészettörténész, PhD
@@ -394,6 +393,7 @@ Szabó Írisz, neurobiológus, PhD, tudományos munkatárs
 Szabó Zoltán, filozófus, PhD, egyetemi tanár
 Szajbély Mihály, irodalomtörténész, az MTA doktora, Laureatus Academiae, professor emeritus
 Szalai Tamás, csillagász, PhD
+Szalavetz Andrea közgazdász, az MTA doktora
 Szanyi János, hidrogeológus, egyetemi adjunktus
 Szathmáry Eörs, biológus, az MTA rendes tagja
 Széchenyi Ágnes, irodalomtörténész, az MTA doktora
